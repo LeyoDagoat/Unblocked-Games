@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2048",
+    "name": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "category": "Puzzle",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/"
+  },
+  {
+    "id": "tetris",
+    "name": "Tetris",
+    "description": "The classic block-stacking puzzle game.",
+    "category": "Classic",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "iframeUrl": "https://tetris.com/play-tetris"
+  },
+  {
+    "id": "snake",
+    "name": "Snake",
+    "description": "Eat the apples and grow your snake without hitting the walls.",
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "crossy-road",
+    "name": "Crossy Road",
+    "description": "Why did the chicken cross the road?",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300",
+    "iframeUrl": "https://poki.com/en/g/crossy-road"
+  },
+  {
+    "id": "slope",
+    "name": "Slope",
+    "description": "Roll down the slope as far as you can in this fast-paced game.",
+    "category": "Speed",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "iframeUrl": "https://slope-game.github.io/"
+  },
+  {
+    "id": "minecraft-classic",
+    "name": "Minecraft Classic",
+    "description": "Build anything you can imagine in the classic version of Minecraft.",
+    "category": "Creative",
+    "thumbnail": "https://picsum.photos/seed/minecraft/400/300",
+    "iframeUrl": "https://classic.minecraft.net/"
+  },
+  {
+    "id": "cookie-clicker",
+    "name": "Cookie Clicker",
+    "description": "The original idle game by Orteil. Bake cookies, buy upgrades, and build your kingdom.",
+    "category": "Idle",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/"
+  }
+]
